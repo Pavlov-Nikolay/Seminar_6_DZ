@@ -63,3 +63,4 @@ double x = Math.Round(- (b1 - b2) / (k1 - k2), 2);
 double y = Math.Round((k1 * x + b1), 2);
 
 Console.WriteLine($"Пересечение прямых происходит в точке: ({x}; {y})");
+
